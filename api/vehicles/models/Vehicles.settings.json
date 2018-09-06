@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "vehicles",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "brand": {
+      "default": "",
+      "type": "string"
+    },
+    "plate": {
+      "default": "",
+      "type": "string"
+    },
+    "registrydate": {
+      "default": "",
+      "type": "date"
+    },
+    "status": {
+      "default": "",
+      "type": "string"
+    }
+  }
+}
