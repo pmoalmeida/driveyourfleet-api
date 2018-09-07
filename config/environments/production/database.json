@@ -8,7 +8,7 @@
         "uri": "${process.env.DATABASE_URI || ''}",
         "host": "${process.env.DATABASE_HOST || 'ds239071.mlab.com'}",
         "port": "${process.env.DATABASE_PORT || 39071}",
-        "database": "${process.env.DATABASE_NAME || 'strapi-production'}",
+        "database": "${process.env.DATABASE_NAME || 'ds239071.mlab.com:39071'}",
         "username": "${process.env.DATABASE_USERNAME || 'administrator'}",
         "password": "${process.env.DATABASE_PASSWORD || 'driveyourfleetetapa1'}"
       },
